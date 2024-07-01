@@ -25,7 +25,11 @@ npm install mongoose
 ```sh
 npm install supervisor
 ```
-- Dotend
+- Joi
+```sh
+npm install joi
+```
+- Dotenv
 ```sh
 npm install dotenv
 ```
