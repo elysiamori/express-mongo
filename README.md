@@ -34,7 +34,7 @@ npm install joi
 npm install dotenv
 ```
 
-Objective: As learning material and syntax reminder related to express and mongodb integration
+Objective: As learning material and syntax reminder related to express and mongodb integration.
 
 
 
